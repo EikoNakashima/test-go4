@@ -3,8 +3,9 @@ package controller
 import (
 	"net/http"
 	"strconv"
-	"test-go4//model"
-	"test-go4//service"
+
+	"github.com/EikoNakashima/test-go4/model"
+	"github.com/EikoNakashima/test-go4/service"
 
 	"github.com/gin-gonic/gin"
 )

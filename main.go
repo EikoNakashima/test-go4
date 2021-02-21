@@ -1,8 +1,8 @@
 package main
 
 import (
-	"test-go4//middleware"
-	"test-go4/controller"
+	"github.com/EikoNakashima/test-go4/controller"
+	"github.com/EikoNakashima/test-go4/middleware"
 
 	"github.com/gin-gonic/gin"
 	_ "github.com/go-sql-driver/mysql"

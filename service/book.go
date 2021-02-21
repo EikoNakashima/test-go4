@@ -1,7 +1,7 @@
 package service
 
 import (
-	"test-go4//model"
+	"github.com/EikoNakashima/test-go4/model"
 )
 
 type BookService struct{}

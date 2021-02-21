@@ -4,7 +4,8 @@ import (
 	"errors"
 	"fmt"
 	"log"
-	"test-go4//model"
+
+	"github.com/EikoNakashima/test-go4/model"
 
 	"github.com/go-xorm/xorm"
 )
