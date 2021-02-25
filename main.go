@@ -3,9 +3,9 @@ package main
 import (
 	"github.com/EikoNakashima/test-go4/controller"
 	"github.com/EikoNakashima/test-go4/middleware"
+	_ "github.com/go-sql-driver/mysql"
 
 	"github.com/gin-gonic/gin"
-	_ "github.com/go-sql-driver/mysql"
 )
 
 func main() {
